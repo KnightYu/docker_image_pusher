@@ -3,5 +3,8 @@ nginx
 ubuntu:22.04
 redis
 mysql
+jenkins/jenkins:lts
+zlmediakit/zlmediakit:master
+wvp-pro
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
